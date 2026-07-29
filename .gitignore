@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Chroma Vector Database
+vectordb/
+
+# Large datasets
+data/arxiv-metadata-oai-snapshot.json
+data/arxiv_cs.csv
+data/arxiv_cs_small.csv
+data/reduced_dataset.csv
+
+# Logs
+*.log
+
+# OS Files
+Thumbs.db
+.DS_Store
